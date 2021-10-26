@@ -1,0 +1,12 @@
+.git/
+.vs/
+.nuget/
+.sonarqube/
+bin/
+obj/
+packages/
+*.csproj.user
+*.nupkg
+*.nuspec
+*.bak
+*.~*
